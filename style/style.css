@@ -1,0 +1,75 @@
+.fundo{
+    background-image: url(../images/BG-Criptomoedas-trademap-2\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#botao{
+    background-color: #020B3F;
+    color: white;
+    border: 3px solid #CE9C00;
+    width: 17vw;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: #fcd358 6px 6px 1px;
+    font-size: 1.5vw;
+    font-weight: bold;
+}
+
+.fundoDois{
+    background-color: #020B3F;
+}
+
+.fundoTres{
+    background-color: #DEEBFE;
+}
+
+.numeroGrande{
+    color: #6F68BC;
+    opacity: 43%;
+    font-size: 6vw;
+}
+
+#botaoDois{
+    background-color: #DEEBFE;
+    color: #020B3F;
+    border: 3px solid #020B3F;
+    width: 17vw;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: #fcd358 6px 6px 1px;
+    font-size: 1.5vw;
+    font-weight: bold;
+}
+
+.fundoQuatro{
+    background-color: #FFFFFF;
+}
+
+.fundoCinco{
+    background-image: url(../images/fundo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+	
+
+.lista li{
+    font-size: 1.5vw;
+    font-weight: bold;
+    color: #fff ;
+    background-color: #020B3F;
+}
+
+.quadrado{
+    box-shadow: #CE9C00 25px 25px 1px;
+}
+
+.grande{
+    font-size: 3vw;
+}
